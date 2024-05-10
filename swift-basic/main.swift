@@ -10,4 +10,5 @@ import Foundation
 print("Hello, World!")
 
 //basic()
-
+//op()
+str()
